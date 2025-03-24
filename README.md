@@ -1,0 +1,1 @@
+This is the python script that uses openAI LLM to scan text from image, preprocess it and then convert it into necessary data. This data is then added into excel whic is sent as an invoice for specific service.
